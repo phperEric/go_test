@@ -1,3 +1,3 @@
-module github.com/phperEric/go-test
+module github.com/phperic/gotest
 
 go 1.18
