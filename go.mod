@@ -1,3 +1,3 @@
-module go-test
+module go_test
 
 go 1.18
